@@ -1,5 +1,5 @@
 {
-  "name": "moleculer",
+  "name": "molecular",
   "version": "0.14.18",
   "description": "Fast & powerful microservices framework for Node.JS",
   "main": "index.js",
@@ -213,6 +213,7 @@
       "optional": true
     }
   },
+  
   "engines": {
     "node": ">= 10.x.x"
   },
